@@ -21,12 +21,12 @@
 //             - p - .removeable-item
 //             - p - .removeable-item
 //             - ul
-//              - li
-//              - li
-//              - li
-//              - li
-//              - li
-//              - li
+    //              - li
+    //              - li
+    //              - li
+    //              - li
+    //              - li
+    //              - li
 //             - img
 //             - div 
 

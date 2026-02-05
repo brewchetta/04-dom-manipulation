@@ -11,6 +11,8 @@ img {
     width: 400px;
     border: solid black 2px;
     border-radius: 8px;
+    margin: 1em;
+    padding: 1em;
 }
 
 #note-to-remove {
